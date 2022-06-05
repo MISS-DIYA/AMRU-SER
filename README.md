@@ -3,7 +3,7 @@
 <img src=https://i.imgur.com/Q8UeA57.png>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+MISS-DIYA+WA+BOT+REPO;CREATED+BY+VIRUD+CAT;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -22,14 +22,14 @@
 <img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
 </p>
 
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![MISS-DIYA](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917034890656?text=Can%20you%20help%20bro)**
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--ANOOP/VIRUS-CAT?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/MISD-DIYA-MISSDIYA">AMRU-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -57,9 +57,9 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 4. Click [FORK](https://github.com/AMRUSIR/AMRU-SER/fork) 
 5 Click the url showing below to copy deploy template
 ````
-https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER
+https://heroku.com/deploy?template=https://github.com/MISS-DIYA/AMRU-SER
 ````
-6. Now change AMRUSIR with your github username and click ENJOY
+6. Now change MISS-DIYA with your github username and click ENJOY
 
 ----
 
