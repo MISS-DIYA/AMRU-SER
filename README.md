@@ -3,7 +3,7 @@
 <img src=https://i.imgur.com/Q8UeA57.png>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+MISS-DIYA+WA+BOT+REPO;CREATED+BY+VIRUD+CAT;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+MISS-DIYA+WA+BOT+REPO;CREATED+BY+VIRUS+CAT;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -52,7 +52,7 @@ Project created by <a href="https://github.com/MISD-DIYA-MISSDIYA">AMRU-SER</a> 
 ☝️THIS PROBLEM SOLVED 
 # Follow this rules no error will come
 1. Click [SCAN](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (AMRU_QR_CODE).
+2. You will get a long text that needs after 4th step (MISSDIYA_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/AMRUSIR/AMRU-SER/fork) 
 5 Click the url showing below to copy deploy template
